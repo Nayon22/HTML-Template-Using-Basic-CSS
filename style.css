@@ -1,0 +1,162 @@
+#menu{
+
+	background-color: #df80ff;
+	color: White;
+	height: 80px;
+	font-size: 40px;
+	font-family: Futura, Bold;
+	text-align: center;
+
+}
+
+
+#makeup{
+
+	padding-top: 12px;
+    height: 770px;
+    width: 1730px;
+}
+
+#middle{
+
+	font-size:40px;
+	font-family: Amsterdam, Bold;
+	text-align: center;
+	color: #DF80FF;
+
+
+}
+
+#Nail{
+	
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	
+
+
+}
+
+
+#brush{
+
+	width: 400px;
+	height: 400px;
+	margin: auto;
+
+}
+
+#Top{
+
+	width: 300px;
+	height: 300px;
+	margin: auto;
+
+}
+
+#last{
+
+	width: 400px;
+	height: 400px;
+	margin:0 auto;
+
+
+}
+
+#cap{
+
+	font-size:40px;
+	font-family: Amsterdam, Bold;
+	text-align: center;
+	color: white;
+
+}
+
+
+form{
+
+	background-color: #DF80FF;
+	
+	
+}
+
+
+label{
+
+	font-size: 30px;
+	margin-left: 426px;
+	font-family: Futura, Bold;
+	color:  white;
+
+
+}
+
+
+.firstname{
+
+	font-size: 20px;
+	width: 450px;
+	height: 35px;
+	
+
+}
+
+
+.lastname{
+
+	font-size: 20px;
+	width: 450px;
+	height: 35px;
+
+
+}
+
+
+.email{
+
+	font-size: 20px;
+	width: 450px;
+	height: 35px;
+
+
+}
+
+.male{
+
+	font-size: 25px;
+	color: white;
+
+}
+
+.female{
+
+	font-size: 25px;
+	color:  white;
+
+}
+
+.submit{
+
+	font-size: 20px;
+	background-color: White;
+	color: black;
+	margin-left:  426px;
+
+
+}
+
+
+.foot{
+
+	background-color: #DF80FF;
+	font-size:40px;
+	font-family: Amsterdam, Bold;
+	text-align: center;
+	color: white;
+	padding-top: 150px;
+	
+
+
+
+}
+
